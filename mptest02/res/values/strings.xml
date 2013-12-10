@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mptest02</string>
+    <string name="action_settings">Settings</string>
+    <!-- <string name="hello_world">Hello world!</string> -->
+    
+    <string name="hello">H</string>
+    
+    <string name="strplay1">P1</string>
+    <string name="strplay2">P2</string>
+    <string name="strplay3">P3</string>
+    <string name="strplay4">P4</string>
+        
+    <string name="strStop">S</string>
+
+</resources>
